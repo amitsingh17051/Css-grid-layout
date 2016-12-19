@@ -1,44 +1,18 @@
 
-.container {
-  margin-top:50px;
-  
- 
-}
 
 .box {
-  background-color:#eee;
+  background-color:lightpink;
   height:35px;
   margin-bottom:20px;
   border-radius:2px;
   cursor:pointer;
-}
- .container h1 {
-    margin-bottom:50px;
-    text-align:center;
-    background-color:black;
-    color:white;
-    padding:20px 0px;
-    border-radius:2px;
-  }
-
-
-.tooltip.top .tooltip-arrow {
-  bottom: 0;
-  left: 50%;
-  margin-left: -5px;
-  border-top-color: #ccc;
-  border-width: 5px 5px 0;
-  transition:1.2s ease-in-out;
-}
-.tooltip-inner {
-  padding:20px 0px;
-  font-weight:600;
-  width:250px;
-  font-size:20px;
-  color: #fff;
-  background: #ccc;
- 
+  border-radius: 2px;
 }
 
-
-
+.heading {
+  color:white;
+  text-align: center;
+  margin:20px 0px;
+  background-color: black;
+  padding:20px 0px; 
+}
